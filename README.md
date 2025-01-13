@@ -56,7 +56,7 @@ An interactive AI-powered programming tutor built with Streamlit and OpenAI. Thi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-programming-tutor.git
+git clone https://github.com/pakagronglb/ai-programming-tutor.git
 cd ai-programming-tutor
 ```
 
@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Pakagrong Lebel
 
 ## 🙏 Acknowledgments
 
@@ -155,9 +155,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit for the wonderful framework
 - MongoDB for the database solution
 - All contributors and users of this project
-
-## 📞 Support
-
-For support, email pakagronglebel@gmail.com or open an issue in the GitHub repository.
-```
 
